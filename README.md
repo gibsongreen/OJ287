@@ -1,27 +1,27 @@
 # OJ287
 
-#Preliminary Results
+# Preliminary Results
 
 ![alt text](https://github.com/gibsongreen/OJ287/blob/main/Generated%20Results/Unknown-2.png?raw=true)
 
-Excess Counts
+# Excess Counts
 ![alt text](https://github.com/gibsongreen/OJ287/blob/d26b5cfc38616b67be19f1a939956fba1429dfea/Generated%20Results/excess_counts.png?raw=true)
 
-Fits Count Map
+# Fits Count Map
 ![alt text](https://github.com/gibsongreen/OJ287/blob/d26b5cfc38616b67be19f1a939956fba1429dfea/Generated%20Results/fit1_counts_map_xproj_2.000_5.699.png?raw=true)
 
 
-Fits Count Map
+# Fits Count Map
 ![alt text](https://github.com/gibsongreen/OJ287/blob/d26b5cfc38616b67be19f1a939956fba1429dfea/Generated%20Results/fit1_counts_map_yproj_2.000_5.699.png?raw=true)
 
 
-Fits Count Spectrum
+# Fits Count Spectrum
 ![alt text](https://github.com/gibsongreen/OJ287/blob/d26b5cfc38616b67be19f1a939956fba1429dfea/Generated%20Results/fit1_counts_spectrum.png?raw=true)
 
-Fits Model Map
+# Fits Model Map
 ![alt text](https://github.com/gibsongreen/OJ287/blob/d26b5cfc38616b67be19f1a939956fba1429dfea/Generated%20Results/fit1_model_map_2.000_5.699.png?raw=true)
 
-Significant Distribution
+# Significant Distribution
 ![alt text](https://github.com/gibsongreen/OJ287/blob/d26b5cfc38616b67be19f1a939956fba1429dfea/Generated%20Results/sig_distribution.png?raw=true)
 
 # Resources
