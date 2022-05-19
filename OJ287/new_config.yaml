@@ -1,0 +1,43 @@
+binning:
+  binsperdec: 8
+  binsz: 0.1
+  roiwidth: 15.0
+components:
+- selection:
+    evtype: 3
+- selection:
+    evtype: 4
+- selection:
+    evtype: 8
+- selection:
+    evtype: 16
+- selection:
+    evtype: 32
+data:
+  evfile: events.txt
+  scfile: SC00.fits
+fileio:
+  outdir: data
+gtlike:
+  edisp: true
+  edisp_bins: -1
+  edisp_disable:
+  - isodiff
+  irfs: P8R3_SOURCE_V3
+model:
+  catalogs:
+  - 4FGL
+  galdiff: gll_iem_v07.fits
+  isodiff: iso_P8R3_SOURCE_V3_v1.txt
+  src_roiwidth: 20.0
+selection:
+  dec: 20.0657
+  emax: 500000
+  emin: 100
+  evclass: 128
+  evtype: 3
+  filter: DATA_QUAL>0 && LAT_CONFIG==1
+  ra: 85449.7
+  tmax: 648518403
+  tmin: 549560621
+  zmax: 90
