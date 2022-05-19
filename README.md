@@ -2,20 +2,26 @@
 
 #Preliminary Results
 
-- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true
-
 ![alt text](https://github.com/gibsongreen/OJ287/blob/main/Generated%20Results/Unknown-2.png?raw=true)
 
+Excess Counts
 ![alt text](https://github.com/gibsongreen/OJ287/blob/d26b5cfc38616b67be19f1a939956fba1429dfea/Generated%20Results/excess_counts.png?raw=true)
 
+Fits Count Map
 ![alt text](https://github.com/gibsongreen/OJ287/blob/d26b5cfc38616b67be19f1a939956fba1429dfea/Generated%20Results/fit1_counts_map_xproj_2.000_5.699.png?raw=true)
 
+
+Fits Count Map
 ![alt text](https://github.com/gibsongreen/OJ287/blob/d26b5cfc38616b67be19f1a939956fba1429dfea/Generated%20Results/fit1_counts_map_yproj_2.000_5.699.png?raw=true)
 
+
+Fits Count Spectrum
 ![alt text](https://github.com/gibsongreen/OJ287/blob/d26b5cfc38616b67be19f1a939956fba1429dfea/Generated%20Results/fit1_counts_spectrum.png?raw=true)
 
+Fits Model Map
 ![alt text](https://github.com/gibsongreen/OJ287/blob/d26b5cfc38616b67be19f1a939956fba1429dfea/Generated%20Results/fit1_model_map_2.000_5.699.png?raw=true)
 
+Significant Distribution
 ![alt text](https://github.com/gibsongreen/OJ287/blob/d26b5cfc38616b67be19f1a939956fba1429dfea/Generated%20Results/sig_distribution.png?raw=true)
 
 # Resources
@@ -36,6 +42,8 @@ Fermi Large Area Telescope First Source Catalog
   - Fermi LAT Collaboration (2009) Preliminary FSSC Release
   - https://fermi.gsfc.nasa.gov/ssc/data/access/lat/1yr_catalog/1FGL_catalog_v2.pdf
 
+# FermiPy
+
 FermiPy/fermipy 
   - Quickstart Guide
   https://github.com/fermiPy/fermipy/blob/master/docs/quickstart.rst
@@ -51,7 +59,13 @@ FermiPy Documentation
   - https://fermipy.readthedocs.io/en/latest/config.html?highlight=ft1#class-configuration
   - Light Curves
   - https://fermipy.readthedocs.io/en/latest/advanced/lightcurve.html?highlight=light%20curve
-  
+ 
+# Fermi Summer School
+  - Likelihood Fitting and Light Curves (PPT)
+  - https://confluence.slac.stanford.edu/display/LSP/Fermi+Summer+School+2021?preview=/311544878/314549020/NotesOnLightCurves.pdf
+  - Basics on Likelihood, Poisson Statistics Tutorial 
+  - https://github.com/FermiSummerSchool/fermi-summer-school/blob/master/Statistics_Tutorial/PoissonStatisticsTutorial_Group1.ipynb
+ 
 # Time
  NASA Fermi Cicerone: Data - Time in Fermi Data Analysis
   - https://fermi.gsfc.nasa.gov/ssc/data/analysis/documentation/Cicerone/Cicerone_Data/Time_in_ScienceTools.html
