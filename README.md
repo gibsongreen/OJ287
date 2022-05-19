@@ -1,5 +1,9 @@
 # OJ287
 
+#Preliminary Results
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/gibsongreen/OJ287/blob/main/Generated%20Results/Unknown-2.png?raw=true)
+
 # Resources
 fermi-lat/FermiBottle
   - Using the Fermibottle Container (using the container)
